@@ -6,8 +6,11 @@ I'm inspired by Refik Anadol's Machine Hallucinations series. This is a visual s
 
 I will incorporate data transformation into "hallucinatory" fluid movements. This abstract, dynamic visual, specifically using the Perlin noise and randomness method required for the individual assignment task is ideal to represent the changing movement.
 
-![Machine Hallucinations — Nature Dreams 1](Screenshot1.png)
-![Machine Hallucinations — Nature Dreams 2](Screenshot2.png)
+### Machine Hallucinations — Nature Dreams 1
+![](Screenshot1.png)
+
+### Machine Hallucinations — Nature Dreams 2
+![](Screenshot2.png)
 
 
 
@@ -22,4 +25,3 @@ This technique, as explored in Daniel Shiffman's The Coding Train tutorials, use
 [Code implementation link 1](https://thecodingtrain.com/challenges/24-perlin-noise-flow-field)
 
 [Code implementation link 2](https://www.youtube.com/watch?v=1-QXuR-XX_s)
-
