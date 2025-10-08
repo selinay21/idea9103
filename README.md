@@ -18,6 +18,6 @@ A practical coding technique to achieve the fluid, non-linear movement and trans
 This technique, as explored in Daniel Shiffman's The Coding Train tutorials, uses the mathematically generated, naturally smooth random values of Perlin Noise to create a Flow Field. This field then directs the movement of particles or pixels. By continuously mapping a particle's direction based on the noise value at its location, you can simulate fluid motion reminiscent of smoke, water, or the continuous morphing of Anadol's visuals. 
 
 ![Code Example](codeScreenshot.png)
-![Code implementation link 1](https://thecodingtrain.com/challenges/24-perlin-noise-flow-field)
-![Code implementation link 2](https://www.youtube.com/watch?v=1-QXuR-XX_s)
+[Code implementation link 1](https://thecodingtrain.com/challenges/24-perlin-noise-flow-field)
+[Code implementation link 2](https://www.youtube.com/watch?v=1-QXuR-XX_s)
 
